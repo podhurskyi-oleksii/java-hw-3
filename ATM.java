@@ -1,5 +1,3 @@
-package com.goit.testing;
-
 public class ATM {
     public int countBanknotes(int sum) {
 
